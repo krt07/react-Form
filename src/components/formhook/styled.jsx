@@ -13,13 +13,12 @@ export const FormField = styled.div`
 `;
 
 export const Label = styled.label`
-    font-size: 16px;
-    color: gray;
+    font-size: 30px;
+    color: #6e1414;
 `;
 
 export const Input = styled.input`
     max-width: 100%;
-    font-size: 16px;
     margin-bottom: 40px;
     padding: 6px;
     border-radius: 8px;
